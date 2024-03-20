@@ -1,2 +1,2 @@
 # project_modules
-when we transpile to program is correctle
+when we transpile to program is correctly
